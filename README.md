@@ -1,5 +1,5 @@
 # OPGG_Project(교내공모전)
-1. 대회명: Hallym/OP.GG Game Big Data Hackathon
+1. 대회명: OOOOOO/OP.GG Game Big Data Hackathon
 2. 참가자격: OO대학교 재학생(학부생, 대학원생), 조별 4인까지
 3. 대회내용
    - 게임대상: 리그오브레전드, 배틀그라운드 중 선택
